@@ -10,3 +10,9 @@ After successful installation of Qt Designer the User Login is the first form i 
 
 
   ![Image of UserLogin UI](Form_Images/UserLogin.png)
+
+2 Credit Form
+
+After designing this form i learn different properties of Qt Designer
+
+  ![Image of Credit UI](Form_Images/Credit.png)
