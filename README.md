@@ -51,4 +51,11 @@ This form take the input from users and Display Transporter Information from dat
 
 This form take input of vehicle from user and display all vehicle Details from Database.
 
-  ![Image of VehicleInfo UI](Form_Images/VehicaleInfo.png)
+  ![Image of VehicleInfo UI](Form_Images/vehicaleInfo.png)
+
+9 Farmars Milk Info 
+
+This Form cantain all information of Milk Collection System.
+
+  ![Image of FarmarLayoutInfo UI](Form_Images/FarmarLayout.png)
+
