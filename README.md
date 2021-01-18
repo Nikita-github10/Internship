@@ -2,9 +2,9 @@
 
 **Design form using PyQt5 in Python and Add Database connectivity Using SQLite**
     
-This work was done during the virtual internship in the Months of Sept-Nov 2020 with Electroveda Infotech Pune
-This work based on UI designing and upload data into the databse SQLite
-This forms is design for the milk colletion system
+This work was done during the virtual internship in the Months of Sept-Nov 2020 with Electroveda Infotech Pune.
+This work based on UI designing and upload data into the databse SQLite.
+This forms is design for the milk colletion system.
 
 1 User Login
 
@@ -24,4 +24,16 @@ After designing this form i learn different properties of Qt Designer
 This form inclued the detail of Milk collection Route 
 
   ![Image of Route UI](Form_Images/RouteInfo.png)
+
+4 Center Form
+
+This form inclued the detail of Milk collection Center
+
+![Image of Center UI](Form_Images/CenterInfo.png)
+
+5 Route Chart Form
+
+This Form inclued Route Chart information
+
+![Image of RouteChart UI](Form_Images/RtChrtInfo.png)
 
