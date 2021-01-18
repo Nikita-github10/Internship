@@ -59,3 +59,16 @@ This Form cantain all information of Milk Collection System.
 
   ![Image of FarmarLayoutInfo UI](Form_Images/FarmarLayout.png)
 
+10 Customer Form
+
+This form cantain information of Customer
+
+  ![Image of Customer UI](Form_Images/Customer.png)
+
+11 Supplier Form
+
+This form cantain information of Supplier
+
+  ![Image of Supplier UI](Form_Images/Supplier.png)
+
+
