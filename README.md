@@ -37,3 +37,18 @@ This Form inclued Route Chart information
 
 ![Image of RouteChart UI](Form_Images/RtChrtInfo.png)
 
+6 Data Machine Form
+
+  ![Image of DataMachine UI](Form_Images/DataMachine.png)
+
+7 Transporter Form
+
+This form take the input from users and Display Transporter Information from database.
+
+  ![Image of TransporterInfo UI](Form_Images/TransporterInfo.png)
+
+8 Vehical Form
+
+This form take input of vehicle from user and display all vehicle Details from Database.
+
+  ![Image of VehicleInfo UI](Form_Images/VehicaleInfo.png)
