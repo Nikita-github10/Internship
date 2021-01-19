@@ -8,7 +8,7 @@ This forms is design for the milk colletion system.
 
 **1 User Login**
 
-After successful installation of Qt Designer the User Login is the first form i was design. For installation i had taken the reference from this link
+After successful installation of Qt Designer the User Login is the first form i was design. For installation i had taken the reference from this link (https://www.programmersought.com/article/5165681028/)
 
 
   ![Image of UserLogin UI](Form_Images/UserLogin.png)
